@@ -143,7 +143,7 @@
                                 <tbody>
                                     <tr>
                                         <td>Carro</td>
-                                        <td>Uno</td>
+                                        <td>Fastback</td>
                                         <td>ABC1D34</td>
                                         <td>
                                             <span class="badge bg-success">
@@ -179,7 +179,7 @@
 
                                     <tr>
                                         <td>Moto</td>
-                                        <td>Yamaha</td>
+                                        <td>XRE 190</td>
                                         <td>EFG5H67</td>
                                         <td>
                                             <span class="badge bg-warning">
